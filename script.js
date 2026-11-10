@@ -1,4 +1,4 @@
-const Touch-Me = document.getElementById('touchButton')
-Touch-Me.addEventListener('click', function() {
+const TouchMe = document.getElementById('touchButton')
+TouchMe.addEventListener('click', function() {
   alert('welcome Comrades! Thanks for visting');
 });
