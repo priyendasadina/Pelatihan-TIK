@@ -1,25 +1,25 @@
 body {
-  background-color: #20bbff; /*warna biru yang sangat terang*/
-  font-family: Lucida Console, monospace; /*jenis huruf yang elegan dan bagus*/
-  color: #00003f; /*warna teks utama (Biru tua gelap)*/
+  background-color: #20bbff; 
+  font-family: Lucida Console, monospace; 
+  color: #00003f; 
 }
 
 .kartu-profil {
   width: 300px;
-  margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan*/
+  margin: 50px auto; 
   padding: 20px;
   background-color: white;
-  border-radius: 15px; /*membuat sudut menjadi lengkung*/
-  box-shadow: 0 5px 10px rgba(0,0,0,0.1); /*efek bayangan*/
+  border-radius: 15px; 
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1); 
 }
 |
 
 
 .kartu-profi img {
   width: 200px;
-  border-radius: 50%; /*trik untuk membuat gambar persegimenjadi lingkaran sempurna*/
+  border-radius: 50%; 
 }
 .kartu-profil {
 /*...(kode dari slide sebelumnya)...*/
-text-align: center; /*menengahkan semua teks didalam kartu*/
+text-align: center; 
 }
