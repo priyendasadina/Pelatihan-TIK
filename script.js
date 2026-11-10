@@ -1,2 +1,2 @@
 // 1. Pilih tombol berdasarkan ID-nya
-const 
+const touchButton = document.getElementById('')
