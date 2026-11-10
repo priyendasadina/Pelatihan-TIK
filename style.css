@@ -16,7 +16,9 @@ body {
 
 .kartu-profil img {
   width: 150px;
-  border-radius: 50%; 
+  max-width: 100%;
+  height: 150px;
+  object-fit: c
 }
 .kartu-profil {
 /*...(kode dari slide sebelumnya)...*/
